@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "Preserve",
+    "inlineSourceMap": true,
+    "esModuleInterop": true,  
+    "forceConsistentCasingInFileNames": true, 
+
+    /* Type Checking */
+    "strict": true,
+    "noImplicitOverride": true,
+    "allowUnreachableCode": true,
+    "skipLibCheck": true
+  }
+}
