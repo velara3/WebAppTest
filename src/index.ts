@@ -1,4 +1,4 @@
-import {BaseClass} from "base-class-ts/BaseClass.js"
+import {BaseClass} from "base-class-ts/BaseClass"
 
 
 export class MyClass extends BaseClass {
